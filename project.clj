@@ -1,4 +1,4 @@
-(defproject clojure-helloworld "0.1.0"
+(defproject clojure-helloworld "test"
   :description "A helloworld application written in Clojure"
   :url "https://github.com/denderello/clojure-helloworld"
   :license {:name "Apache License Version 2.0"
